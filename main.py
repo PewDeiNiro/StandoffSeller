@@ -6,9 +6,9 @@ from pyqiwip2p import QiwiP2P
 import random
 import time
 
-bot = Bot(token = "5649227479:AAE7pVofGnQ1z4oQunuSNLBV1ZtvRpvHYF8")
+bot = Bot(token = "")
 dp = Dispatcher(bot)
-qiwip2p = QiwiP2P(auth_key = "eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6ImwzNTl3MC0wMCIsInVzZXJfaWQiOiI3OTIxMjUyNzM1NSIsInNlY3JldCI6IjY3NDVlYTcyZTY4YmMyMTU1OThmMjlhM2RiNTY0NTY2ZTk3ZDhmYjFmZTYxNDM5M2RiMGU3NWFhOGYwZjllNmYifX0=")
+qiwip2p = QiwiP2P(auth_key = "")
 
 
 
